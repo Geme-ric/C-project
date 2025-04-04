@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701606026 source:c:\users\hp\documents\programs\c++\bank_complete_project.cpp\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<string>
+	<iomanip>
+
